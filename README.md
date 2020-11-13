@@ -128,7 +128,7 @@ The setup instructions assume that you're using [Git Bash](https://git-scm.com/)
 6. Install the frontend packages with yarn:
 
   ```sh
-  yarn
+  yarn install
   ```
 
 7. Install the Ruby bundles with the following series of commands:
